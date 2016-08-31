@@ -4,7 +4,3 @@ no da un archivo en blanco...
 Nueva línea Naty
 
 1,2,3 probando
-
-
-hola
-sfdsfsdfdsf
